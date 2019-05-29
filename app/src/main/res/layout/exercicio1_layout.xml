@@ -30,7 +30,9 @@
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginRight="20dp" />
+                android:layout_marginRight="20dp"
+                android:drawableTop="@drawable/ic_brightness"/>
+            />
 
             <TextView
                 android:layout_width="80dp"
@@ -40,7 +42,6 @@
                 android:text="Personal notes"
                 android:textColor="#FFF" />
 
-
         </LinearLayout>
 
         <LinearLayout
@@ -51,7 +52,9 @@
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginRight="20dp" />
+                android:layout_marginRight="20dp"
+                android:drawableTop="@drawable/ic_brightness"/>
+            />
 
             <TextView
                 android:layout_width="70dp"
@@ -61,7 +64,6 @@
                 android:text="Office notes"
                 android:textColor="#FFF" />
 
-
         </LinearLayout>
 
         <LinearLayout
@@ -72,7 +74,8 @@
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginRight="20dp" />
+                android:layout_marginRight="20dp"
+                android:drawableTop="@drawable/ic_brightness"/>
 
             <TextView
                 android:layout_width="70dp"
@@ -82,7 +85,6 @@
                 android:paddingLeft="10dp"
                 android:text="Public notes"
                 android:textColor="#FFF" />
-
 
         </LinearLayout>
 
