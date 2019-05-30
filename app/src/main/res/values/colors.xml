@@ -4,4 +4,10 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
     <color name="colorToolBar">#0BC7B4</color>
+    <color name="colorFundo">#0BC7B4</color>
+    <color name="colorNote">#CDD9A2</color>
+    <color name="colorNote1">#E36B51</color>
+    <color name="AttachPhoto">#976A3D</color>
+    <color name="PagFundo">#FFFFFF</color>
+    <color name="AttachPhoto1">#FEC22D</color>
 </resources>

@@ -1,6 +1,9 @@
 <resources>
-    <string name="app_name">Exercicio1</string>
+    <string name="app_name">Notes</string>
     <string name="textoCard">Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+        Lorem Ipsum has been the industryrd dummy text ever since the 1500s,
         when an unknown printer took a galley.</string>
+
+    <string name="textoCard1">It is a long established fact that a
+        reader will be distracted by the readable content of a page when looking at its layout.</string>
 </resources>
